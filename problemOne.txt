@@ -1,0 +1,9 @@
+Write a short explanation of what is Node.js and how is it related to JavaScript. Min 50 words 
+
+Node is an open source runtime environment for developing server-side applications. Node applications are written in JavaScript. A Node application can run on OS X, Windows and Linux within the Node runtime .
+
+This equation, from the Tutorials point introduction, is very helpful in explaining the relationship between Node and JavaScript:
+
+	Node.js = Runtime Environment + JavaScript Library
+
+Node has a library of JavaScript modules that makes it easier to develop web applications. Also, Node is asynchronous, which means that it allows a script to continue running while it does its work to fetch data, and calls a callback function when it’s done. .
